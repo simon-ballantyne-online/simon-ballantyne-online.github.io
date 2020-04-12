@@ -1,3 +1,8 @@
+---
+layout: post
+title: Learning Kotlin
+---
+
 # Learning Kotlin - Developing Apps with Kotlin course, a review
 
 I have been working integrating software and services into Android devices for a few years. Namely in support of Future Soldier System activities. I haven't had the requirement for developing code as my expertise lays in the system architecture, security and tactical communications systems. However, I had a professional development objective of furthering my basic software development skills and considered Android development as being a good target for those aspirations.
